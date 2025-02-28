@@ -1,0 +1,6 @@
+infura:
+  url: 'https://mainnet.infura.io/v3'
+  networking: 1 # mainnet
+  api_key: ''
+wallet:
+  private_key: ''
